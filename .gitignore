@@ -1,0 +1,11 @@
+
+.vscode
+
+*.swp
+
+a.out
+*.out
+*.so
+bin/
+lib/
+
